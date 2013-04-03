@@ -26,3 +26,8 @@ For now, use in `component.json` like this
 [modernizr]: http://modernizr.com/
 [Bower]: https://github.com/twitter/bower
 [source repository]: https://github.com/Modernizr/Modernizr
+
+# Thanks
+
+Forked from [Iristyle](https://github.com/Iristyle/bower-modernizr)
+
